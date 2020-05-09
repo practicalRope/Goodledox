@@ -1,0 +1,9 @@
+body {
+  background-color: #333;
+  color: #cecece;
+  box-sizing: border-box;
+  font-family: "Share Tech Mono", "Segoe UI", monospace;
+
+  /* normalize */
+  margin: 0;
+}
